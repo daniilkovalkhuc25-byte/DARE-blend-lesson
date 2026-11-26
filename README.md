@@ -1,2 +1,2 @@
 # DARE-blend-lesson
-Here u can learn how to use blender and lifehacks
+Here you can learn how to use blender and lifehacks
